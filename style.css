@@ -21,6 +21,7 @@
      font-size: 20px;
      padding: 10px;
      margin: 10px;
+     list-style-type: none;
   }
 
   .menu #example {
@@ -36,6 +37,9 @@
     width: 33%;
   }
 
+  #article .mento ul {
+        padding: 0px;
+  }
   .mento {
     border: 3px solid #274c5e;
     border-radius: 15px;
@@ -50,6 +54,7 @@
 
   li{
     margin-top: 10px;
+    list-style-type: none;
   }
 
   .after-box {
