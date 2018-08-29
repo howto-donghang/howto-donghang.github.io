@@ -1,0 +1,47 @@
+header {
+  text-align: center;
+  height: 500px;;
+}
+
+.navbar-brand {
+  font-family: Raleway;
+}
+
+.nav-item .nav-link {
+  font-family: Raleway;
+}
+
+#content {
+  background: url(https://images.unsplash.com/photo-1522205419828-f5b336fc3931?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=7b10bf52b7ea50de3250fe021944e57d&auto=format&fit=crop&w=1050&q=80);
+  background-size: cover;
+  background-position: top;
+  height: inherit;
+  padding-top:15%;
+  color: white;
+  font-family: Jua;
+  text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+               0px 8px 13px rgba(0,0,0,0.1),
+               0px 18px 23px rgba(0,0,0,0.1);
+}
+
+
+#line1 {
+  border-top: 2px solid white;
+  width: 75%;
+}
+
+.about-heading-content {
+  padding-top: 3%;
+}
+
+#backgroudimg {
+  background: url(https://images.unsplash.com/photo-1505779507181-e8cfc6d1f16f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9c55655e9d53dc55634ff0247697aed6&auto=format&fit=crop&w=664&q=80);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 100%;
+}
+
+#img1 {
+  width: 80%;
+}
