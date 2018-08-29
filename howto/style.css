@@ -1,6 +1,6 @@
 header {
   text-align: center;
-  height: 500px;;
+  height: 500px;
 }
 
 .navbar-brand {
@@ -22,7 +22,6 @@ header {
   height: inherit;
   padding-top:10%;
   color: #343a40;
-  font-family: Jua;
 
 }
 
