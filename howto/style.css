@@ -16,6 +16,11 @@ header {
   font-family: 'Raleway', Sunflower;
 }
 
+
+#subtitle {
+  font-size: 2rem;
+}
+
 #subtitle, #sub2{
   font-family: 'Raleway', Sunflower;
 }
@@ -54,4 +59,9 @@ header {
 
 #webimg {
   width: 70%;
+}
+
+#btnGroupDrop1, #btnGroupDrop2, #btnGroupDrop3, #btnGroupDrop4, #btnGroupDrop5 {
+  margin: 3px;
+  overflow: hidden;
 }
